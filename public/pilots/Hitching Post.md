@@ -6,12 +6,14 @@ Age: 26
 
 Point of Origin: Harvest - Anamite lane 
 
-Having grown up on a border world of mass farming industry- childhood was busy. She grew up with both parents and her 6 siblings with a never ending work life of animals, crops and siblings. 
-A woman with a high work ethic, high family drive but the attitude of a rattle snake. 
-
-Someone chasing a legacy of her great grandfather; her spirit and will to succeed pushes her forward to do what is necessary. 
-
-Known for her laid back attitude to formality- her disregard of the rules is a recent perk of being on the bottom rung of work.
+##Subject Notes
+- Family appears as farmers working on Harvest using personalised Agri-Mechs
+- Relaxed and peaceful demeanor, appears to care for the people of the colonies
+- Hitching Post is not suspect at present, but strong familial connections to **\[Redacted]**
+- Hard Working with a strong sense of right and wrong
+- Due to family history and extensive use of Agri-Mechs prior to enlistment Hitching Post is eligible to enlist at rank of **\[Redacted]** or lower
+- Officer to be kept on ice any time the ship is travelling within the Kunlun, Rocky Mountain or Sol lines
+- __\[REDACTED]__
 
 ## Service Record
 - Enlisted as a Sergeant with perfect scores from the academy

@@ -2,6 +2,11 @@ Name: Argus Blayne
 
 Callsign: Scyllas
 
-##Personal Profile
-A former supersoldier from Everest blink gate, formerly of a private security firm he quit to join the Union to save up money to open a resteraunt when he retires.
-nice and easygoing, he enjoys cooking
+##Subject Notes
+- Vat grown sometime between **\[Redacted]**, assigned to Union Relief Force for observation
+- Former subject of Project **\[Redacted]**
+- Test to determine if **\[Redacted]** can be repurposed, or if **\[Redacted]**
+- Metabolism fluctuates between **\[Redacted]**
+- Food processing unit in quarters seems to deviate from required standards within one week of last service, modifications do not appear dangerous.
+- Accelerated training rate during selection, when paired with food driven rewards overall training completed in **\[Redacted]** compared to baseline values
+- May pair with pilot **\[Redacted]** to determine potential underlying **\[Redacted]**
