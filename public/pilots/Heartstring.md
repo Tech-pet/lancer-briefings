@@ -2,7 +2,7 @@ Name: Eva Lorn
 
 Callsign: Heartstring
 
-##Subject Notes:
+## Subject Notes:
 - Generally friendly and pleasant
 - Often Quiet outside of sharing facts and answers to questions
 - Easily forgotten

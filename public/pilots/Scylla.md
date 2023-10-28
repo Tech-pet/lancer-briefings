@@ -2,7 +2,7 @@ Name: Argus Blayne
 
 Callsign: Scyllas
 
-##Subject Notes
+## Subject Notes
 - Vat grown sometime between **\[Redacted]**, assigned to Union Relief Force for observation
 - Former subject of Project **\[Redacted]**
 - Test to determine if **\[Redacted]** can be repurposed, or if **\[Redacted]**
