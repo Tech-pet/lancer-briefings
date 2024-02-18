@@ -101,6 +101,16 @@ export default {
         {
           "slug": "002",
           "name": "Vigilant Gaze",
+          "status": "success"
+        },
+        {
+          "slug": "003",
+          "name": "Floodgate",
+          "status": "success"
+        },
+        {
+          "slug": "004",
+          "name": "Last Castle",
           "status": "start"
         },
       ],
